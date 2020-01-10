@@ -1,0 +1,58 @@
+The HTML Tag Dictionary!
+
+---
+
+a: Anchor tag, this tag is more commonly known as a link tag, it creates a clickable link to a website on the page.
+
+Attributes: href
+
+Example: <a href="https://theuselessweb.com/">click me!
+
+---
+
+h1: Header tag, this creates a header/title which is bolded and bigger than average text, contains 6 different sizes.
+
+Attributes: none
+
+Example: <h1>Farzat</h1>
+
+---
+
+img: Image tag, this creates an image on the page
+
+Attributes: src
+
+Example: <img src="okboomer.jpg">
+
+---
+
+
+li: List tag, this creates a list, must be used with <ol> or <ul> to work
+
+Attributes: None
+
+Example: <ol>Different Types of People:</ol>
+
+---
+
+ol: Ordered list tag, this tag comes after an <li> tag to make the list ordered in number form
+
+Attributes: None
+
+Example: <li>Cool things: </li><ol>Me</ol><ol>Me, again</ol>
+
+---
+
+p: Paragraph tag, this tag separates writing into organized paragraphs
+
+Attributes: None
+
+Example: <p>Peter piper picked a peck of pickled peppers</p>
+
+---
+
+ul: Unordered list tag, this tag comes after an <li> tag to make the list ordered in point form
+
+Attributes: None
+
+Example: <li>Cool things: </li><ul>Me</ol><ol>Me, again</ul>
