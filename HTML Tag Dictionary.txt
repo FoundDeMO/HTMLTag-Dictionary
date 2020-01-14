@@ -10,6 +10,38 @@ Example: <a href="https://theuselessweb.com/">click me!
 
 ---
 
+body: Body tag, this tag contains all of the content on the website, it closes up all the content.
+
+Attributes: None
+
+Example: <body> <h1>Hello</h1> I'm cool </body>
+
+---
+
+!DOCTYPE: Doctype tag, this tag selects the version of HTML you are going to use for the site
+
+Attributes: html
+
+Example: <!DOCTYPE html> ...
+
+---
+
+head: Head tag, this is used for what the browser need to think about when looking at your webpage
+
+Attributes: None
+
+Example: <head> <title> A Cool Webpage </title> </head>
+
+---
+
+html: html tag, this tag marks the beginning and the end of the html code
+
+Attributes: None
+
+Example: <html> blah, blah, blah... </html>
+
+---
+
 h1: Header tag, this creates a header/title which is bolded and bigger than average text, contains 6 different sizes.
 
 Attributes: none
@@ -48,6 +80,14 @@ p: Paragraph tag, this tag separates writing into organized paragraphs
 Attributes: None
 
 Example: <p>Peter piper picked a peck of pickled peppers</p>
+
+---
+
+title: Title tag, this tag represents the name and/or image of the site at the top of the webpage
+
+Attributes: None
+
+Example: <title> A Cool Webpage </title>
 
 ---
 
