@@ -4,7 +4,7 @@ The HTML Tag Dictionary!
 
 a: Anchor tag, this tag is more commonly known as a link tag, it creates a clickable link to a website on the page.
 
-Attributes: href
+Attributes: href | link | visited | hover | active
 
 Example: <a href="https://theuselessweb.com/">click me!
 
@@ -15,6 +15,14 @@ body: Body tag, this tag contains all of the content on the website, it closes u
 Attributes: None
 
 Example: <body> <h1>Hello</h1> I'm cool </body>
+
+---
+
+div: Division tag, this tag divides the website's area to your selected amount
+
+Attributes: None
+
+Example: <div> width: 1000px; </div>
 
 ---
 
